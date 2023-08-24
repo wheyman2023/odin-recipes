@@ -17,3 +17,7 @@ img {
 .food-description {
   font-style: italic;
 }
+
+.directions#steps {
+  font-size: 25px;
+}
