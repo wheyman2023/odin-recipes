@@ -1,4 +1,10 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
 body {
+  padding: 8px;
+  margin: 8px 16px;
   font-family: Arial, Helvetica, sans-serif;
   color: red;
 }
